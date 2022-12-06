@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.main-app-container {
+  border: solid 1px #989898;
+  overflow: auto;
+  max-height: 1000px;
+}
+
+
+.music-list-elem {
+  border: solid 1px #CCC;
+  box-shadow: 2px 2px 4px grey;
+}
